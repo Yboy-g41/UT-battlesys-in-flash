@@ -1,0 +1,9 @@
+﻿<flash_project name="Proj" version="1">
+    <project_folder name="scripts" expanded="true">
+        <project_file path="./scripts/player code.as" filetype="as" />
+        <project_file path="./scripts/project script.as" filetype="as" />
+        <project_file path="./scripts/square script.as" filetype="as" />
+        <project_file path="./scripts/attack patterns.as" filetype="as" />
+    </project_folder>
+    <project_file path="./app.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>
